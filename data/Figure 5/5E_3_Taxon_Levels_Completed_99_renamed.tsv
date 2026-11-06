@@ -1,0 +1,64 @@
+new_bin_name	str_id	clean_taxon	user_genome	Kingdom	Phylum	Class	Order	Family	Genus	Species
+str01_ZC4RG17	str01	ZC4RG17	H18_bin.39	Bacteria	Actinobacteriota	Acidimicrobiia	UBA5794	ZC4RG35	ZC4RG17	ZC4RG17 sp017577575
+str02_Pseudonocardia	str02	Pseudonocardia	H18_bin.17	Bacteria	Actinobacteriota	Actinomycetia	Mycobacteriales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia_s_UnC
+str03_Spirillospora	str03	Spirillospora	H20_bin.19	Bacteria	Actinobacteriota	Actinomycetia	Streptosporangiales	Streptosporangiaceae	Spirillospora	Spirillospora_s_UnC
+str04_Spirillospora	str04	Spirillospora	Syn_bin.28	Bacteria	Actinobacteriota	Actinomycetia	Streptosporangiales	Streptosporangiaceae	Spirillospora	Spirillospora_s_UnC
+str05_Spirillospora	str05	Spirillospora	Syn_bin.3	Bacteria	Actinobacteriota	Actinomycetia	Streptosporangiales	Streptosporangiaceae	Spirillospora	Spirillospora_s_UnC
+str06_55-13	str06	55-13	H18_bin.19	Bacteria	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	55-13	55-13_s_UnC
+str07_55-13	str07	55-13	H18_bin.8	Bacteria	Armatimonadota	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	55-13	55-13_s_UnC
+str08_GCA-2737665	str08	GCA-2737665	H18_bin.2	Bacteria	Bacteroidota	Bacteroidia	AKYH767	Palsa-965	GCA-2737665	GCA-2737665_s_UnC
+str09_JJ008	str09	JJ008	H18_bin.3	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	JJ008	JJ008_s_UnC
+str10_Lacibacter	str10	Lacibacter	Syn_bin.33	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Lacibacter	Lacibacter_s_UnC
+str11_VBAS01	str11	VBAS01	H20_bin.22	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	VBAS01	VBAS01_s_UnC
+str12_VBAS01	str12	VBAS01	Syn_bin.35	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	VBAS01	VBAS01_s_UnC
+str13_JACVCJ01	str13	JACVCJ01	H18_bin.13	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	CAIKAF01	JACVCJ01	JACVCJ01_s_UnC
+str14_JACVCJ01	str14	JACVCJ01	Syn_bin.34	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	CAIKAF01	JACVCJ01	JACVCJ01_s_UnC
+str15_Aequorivita	str15	Aequorivita	Syn_bin.14	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aequorivita	Aequorivita_s_UnC
+str16_Confluentibacter	str16	Confluentibacter	H20_bin.10	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Confluentibacter	Confluentibacter_s_UnC
+str17_Flavobacterium	str17	Flavobacterium	H20_bin.14	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium_s_UnC
+str18_Sphaerobacter	str18	Sphaerobacter	CK_bin.15	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	Thermomicrobiaceae	Sphaerobacter	Sphaerobacter thermophilus
+str19_Sphaerobacter	str19	Sphaerobacter	H20_bin.29	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	Thermomicrobiaceae	Sphaerobacter	Sphaerobacter thermophilus
+str20_Sphaerobacter	str20	Sphaerobacter	Syn_bin.41	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	Thermomicrobiaceae	Sphaerobacter	Sphaerobacter thermophilus
+str21_o_Thermomicrobiales	str21	o_Thermomicrobiales	H18_bin.18	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	Thermomicrobiales_f_UnC	Thermomicrobiales_g_UnC	Thermomicrobiales_s_UnC
+str22_o_Thermomicrobiales	str22	o_Thermomicrobiales	H20_bin.11	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	Thermomicrobiales_f_UnC	Thermomicrobiales_g_UnC	Thermomicrobiales_s_UnC
+str23_JACCVC01	str23	JACCVC01	H18_bin.4	Bacteria	Chloroflexota	Chloroflexia	Thermomicrobiales	UBA6265	JACCVC01	JACCVC01_s_UnC
+str24_WHTF01	str24	WHTF01	H18_bin.26	Bacteria	Desulfobacterota_B	Binatia	UBA9968	UBA9968	WHTF01	WHTF01_s_UnC
+str25_WHTF01	str25	WHTF01	Syn_bin.7	Bacteria	Desulfobacterota_B	Binatia	UBA9968	UBA9968	WHTF01	WHTF01_s_UnC
+str26_Bacillus	str26	Bacillus	Syn_bin.37	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis
+str27_Palsa-1233	str27	Palsa-1233	CK_bin.21	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	Palsa-1233	Palsa-1233_s_UnC
+str28_Palsa-1233	str28	Palsa-1233	H20_bin.25	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	Palsa-1233	Palsa-1233_s_UnC
+str29_Palsa-1233	str29	Palsa-1233	Syn_bin.12	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	GWC2-71-9	Palsa-1233	Palsa-1233_s_UnC
+str30_f_Longimicrobiaceae	str30	f_Longimicrobiaceae	H18_bin.28	Bacteria	Gemmatimonadota	Gemmatimonadetes	Longimicrobiales	Longimicrobiaceae	Longimicrobiaceae_g_UnC	Longimicrobiaceae_s_UnC
+str31_NIC37A-2	str31	NIC37A-2	CK_bin.14	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	NIC37A-2	NIC37A-2_s_UnC
+str32_NIC37A-2	str32	NIC37A-2	H18_bin.7	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	NIC37A-2	NIC37A-2_s_UnC
+str33_NIC37A-2	str33	NIC37A-2	H20_bin.15	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	NIC37A-2	NIC37A-2_s_UnC
+str34_NIC37A-2	str34	NIC37A-2	Syn_bin.20	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	NIC37A-2	NIC37A-2_s_UnC
+str35_PMG-095	str35	PMG-095	CK_bin.8	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	PMG-095	PMG-095_s_UnC
+str36_f_Polyangiaceae	str36	f_Polyangiaceae	H20_bin.12	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Polyangiaceae_g_UnC	Polyangiaceae_s_UnC
+str37_f_Polyangiaceae	str37	f_Polyangiaceae	H20_bin.18	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Polyangiaceae_g_UnC	Polyangiaceae_s_UnC
+str38_f_Polyangiaceae	str38	f_Polyangiaceae	Syn_bin.16	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Polyangiaceae_g_UnC	Polyangiaceae_s_UnC
+str39_f_Polyangiaceae	str39	f_Polyangiaceae	Syn_bin.26	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Polyangiaceae_g_UnC	Polyangiaceae_s_UnC
+str40_SZUA-265	str40	SZUA-265	H18_bin.22	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	SZUA-265	SZUA-265_s_UnC
+str41_o_UBA727	str41	o_UBA727	Syn_bin.31	Bacteria	Myxococcota	UBA727	UBA727	UBA727_f_UnC	UBA727_g_UnC	UBA727_s_UnC
+str42_OLB19	str42	OLB19	H18_bin.24	Bacteria	Patescibacteria	Paceibacteria	UBA9983_A	UBA918	OLB19	OLB19_s_UnC
+str43_OLB19	str43	OLB19	Syn_bin.5	Bacteria	Patescibacteria	Paceibacteria	UBA9983_A	UBA918	OLB19	OLB19_s_UnC
+str44_f_UBA1547	str44	f_UBA1547	H20_bin.24	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	UBA1547	UBA1547_g_UnC	UBA1547_s_UnC
+str45_UBA6022	str45	UBA6022	Syn_bin.38	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	UBA1547	UBA6022	UBA6022_s_UnC
+str46_f_2-01-FULL-39-13	str46	f_2-01-FULL-39-13	H18_bin.9	Bacteria	Patescibacteria	WWE3	2-01-FULL-39-13	2-01-FULL-39-13	2-01-FULL-39-13_g_UnC	2-01-FULL-39-13_s_UnC
+str47_Palsa-892	str47	Palsa-892	CK_bin.13	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Palsa-892	Palsa-892_s_UnC
+str48_Palsa-892	str48	Palsa-892	H18_bin.12	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Palsa-892	Palsa-892_s_UnC
+str49_Acidovorax	str49	Acidovorax	H18_bin.36	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Acidovorax	Acidovorax_s_UnC
+str50_Methyloversatilis	str50	Methyloversatilis	Syn_bin.29	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	Methyloversatilis	Methyloversatilis discipulorum_A
+str51_DSOT01	str51	DSOT01	H18_bin.37	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	SG8-41	DSOT01	DSOT01_s_UnC
+str52_Enterobacter	str52	Enterobacter	Syn_bin.46	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter ludwigii
+str53_Enterobacter	str53	Enterobacter	H18_bin.23	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter mori
+str54_UBA5868	str54	UBA5868	CK_bin.6	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	UBA5868	UBA5868 sp002432095
+str55_UBA5868	str55	UBA5868	Syn_bin.44	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Cellvibrionaceae	UBA5868	UBA5868 sp002432095
+str56_Pseudomonas_E	str56	Pseudomonas_E	H18_bin.10	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas_E	Pseudomonas_E_s_UnC
+str57_Pseudomonas_E	str57	Pseudomonas_E	H20_bin.5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas_E	Pseudomonas_E_s_UnC
+str58_FEN-1219	str58	FEN-1219	H20_bin.17	Bacteria	Proteobacteria	Gammaproteobacteria	UBA6522	UBA6522	FEN-1219	FEN-1219_s_UnC
+str59_Arenimonas	str59	Arenimonas	Syn_bin.42	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Arenimonas	Arenimonas_s_UnC
+str60_Stenotrophomonas	str60	Stenotrophomonas	H20_bin.21	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas geniculata
+str61_Pelagicoccus	str61	Pelagicoccus	H18_bin.14	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Pelagicoccus	Pelagicoccus_s_UnC
+str62_Pelagicoccus	str62	Pelagicoccus	Syn_bin.40	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Pelagicoccus	Pelagicoccus_s_UnC
+str63_f_SXQI01	str63	f_SXQI01	H18_bin.6	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Pedosphaerales	SXQI01	SXQI01_g_UnC	SXQI01_s_UnC
